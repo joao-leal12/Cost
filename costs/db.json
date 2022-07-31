@@ -1,0 +1,51 @@
+{
+  "project": [
+    {
+      "name": "Desenvolvimento games",
+      "budget": "300001",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Inserir no banco ",
+          "cost": "3000",
+          "description": "inserir no banco ",
+          "id": "1c82f453-f73b-4b70-acea-bf362c227e08"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Design de site",
+      "budget": "30000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
